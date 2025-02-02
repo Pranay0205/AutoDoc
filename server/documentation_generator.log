@@ -389,3 +389,136 @@ I should structure this correctly without adding any extra text, just the JSON a
 2025-02-01 22:31:10,850 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
 2025-02-01 22:31:10,851 - main - INFO - Generated documentation for Test.py: {'overview': 'This Python script calculates the sum of integers from 1 to n using recursion. It imports math and sys modules but does not use them in this specific script. The function `recursive_sum`...
 2025-02-01 22:31:10,852 - main - INFO - Successfully processed: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 22:34:57,214 - main - INFO - Received request for directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 22:34:57,215 - main - INFO - Files in directory: [WindowsPath('D:/Projects/HackBrown/Project/server/test/Test.py')]
+2025-02-01 22:34:57,215 - main - INFO - Created output directory: output
+2025-02-01 22:34:57,216 - main - INFO - Scanning directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 22:34:57,216 - main - INFO - Found 1 Python files
+2025-02-01 22:34:57,217 - main - INFO - Adding file to queue: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 22:34:57,217 - main - INFO - Processing file: Test.py
+2025-02-01 22:34:57,217 - main - INFO - Generating documentation for Test.py
+2025-02-01 22:35:29,534 - main - ERROR - Error generating documentation for Test.py: timed out
+2025-02-01 22:35:33,545 - main - INFO - Generating documentation for Test.py
+2025-02-01 22:36:01,242 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-01 22:36:01,243 - main - INFO - Generated documentation for Test.py: {'overview': 'The code defines a recursive function to calculate the sum of all positive integers from n down to 1 and prints the result for n=10.', 'functions': [{'name': 'recursive_sum', 'descriptio...
+2025-02-01 22:36:01,243 - main - INFO - Successfully processed: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 22:37:17,909 - main - INFO - Received request for directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 22:37:17,909 - main - INFO - Files in directory: [WindowsPath('D:/Projects/HackBrown/Project/server/test/Test.py'), WindowsPath('D:/Projects/HackBrown/Project/server/test/Test2.py')]
+2025-02-01 22:37:17,910 - main - INFO - Created output directory: output
+2025-02-01 22:37:17,911 - main - INFO - Scanning directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 22:37:17,912 - main - INFO - Found 2 Python files
+2025-02-01 22:37:17,912 - main - INFO - Adding file to queue: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 22:37:17,912 - main - INFO - Adding file to queue: D:\Projects\HackBrown\Project\server\test\Test2.py
+2025-02-01 22:37:17,913 - main - INFO - Processing file: Test.py
+2025-02-01 22:37:17,913 - main - INFO - Generating documentation for Test.py
+2025-02-01 22:37:45,280 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-01 22:37:45,281 - main - INFO - Generated documentation for Test.py: {'overview': 'The code calculates the recursive sum of integers from a given number down to 1.', 'functions': [{'name': 'recursive_sum', 'description': ['Recursively sums all integers from n down to 1...
+2025-02-01 22:37:45,293 - main - INFO - Processing file: Test2.py
+2025-02-01 22:37:45,293 - main - INFO - Generating documentation for Test2.py
+2025-02-01 22:38:17,585 - main - ERROR - Error generating documentation for Test2.py: timed out
+2025-02-01 22:38:21,606 - main - INFO - Generating documentation for Test2.py
+2025-02-01 22:38:53,884 - main - ERROR - Error generating documentation for Test2.py: timed out
+2025-02-01 22:38:57,881 - main - INFO - Generating documentation for Test2.py
+2025-02-01 22:39:30,160 - main - ERROR - Error generating documentation for Test2.py: timed out
+2025-02-01 22:39:30,161 - main - ERROR - Error processing D:\Projects\HackBrown\Project\server\test\Test2.py: RetryError[<Future at 0x2814a8b2240 state=finished raised ReadTimeout>]
+2025-02-01 22:39:30,161 - main - INFO - Successfully processed: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 22:39:30,161 - main - ERROR - Failed to process: D:\Projects\HackBrown\Project\server\test\Test2.py
+2025-02-01 22:52:32,479 - main - INFO - Received request for directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 22:52:32,479 - main - INFO - Files in directory: [WindowsPath('D:/Projects/HackBrown/Project/server/test/Test.py'), WindowsPath('D:/Projects/HackBrown/Project/server/test/Test2.py')]
+2025-02-01 22:52:32,480 - main - INFO - Created output directory: output
+2025-02-01 22:52:32,480 - main - INFO - Scanning directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 22:52:32,480 - main - INFO - Found 2 Python files
+2025-02-01 22:52:32,480 - main - INFO - Adding file to queue: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 22:52:32,481 - main - INFO - Adding file to queue: D:\Projects\HackBrown\Project\server\test\Test2.py
+2025-02-01 22:52:32,481 - main - INFO - Processing file: Test.py
+2025-02-01 22:52:32,481 - main - INFO - Generating documentation for Test.py
+2025-02-01 22:53:00,390 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-01 22:53:00,392 - main - ERROR - Error parsing JSON response: Expecting ',' delimiter: line 7 column 25 (char 684)
+2025-02-01 22:53:00,392 - main - ERROR - Raw response: <think>
+Alright, I need to analyze this Python code from the 'Test.py' file and provide a JSON structure with an overview, functions, each function's details, parameters, and returns. 
+
+First, looking at the imports: random, math, sys are imported, but none of them seem used in the code. That might be something to note, but perhaps it's just leftover code.
+
+The main part is the 'recursive_sum' function. It takes an integer n as input. The docstring says it recursively sums numbers from n down to 1. So if n is less than or equal to 1, it returns n itself. Otherwise, it adds n to recursive_sum(n-1). That makes sense because each call reduces the problem size by one until reaching the base case.
+
+Then there's a 'main' function that prints "Recursive sum of 10:" followed by calling recursive_sum(10) and printing the result.
+
+So in my JSON, I'll structure it with an overview explaining what the code does. Then list the functions: only 'recursive_sum' is defined. For this function, I'll include its name, a detailed description, parameters (n, type int), and returns (an integer). The main function isn't necessary to document since the user might not need it unless required.
+
+I should make sure each part is clear and concise without being too verbose.
+</think>
+
+```json
+{
+    "overview": "This Python script demonstrates a recursive approach to summing numbers from a given integer down to 1. It includes an example function `recursive_sum` that performs the calculation, along with a `main` function to demonstrate its usage.",
+    "functions": [
+        {
+            "name": "recursive_sum",
+            "description": ["Recursively sums all integers from n down to 1 by adding each integer to the sum of all subsequent integers until reaching 1 which is then returned as the base case. For example, recursive_sum(3) would calculate 3 + recursive_sum(2), which in turn calculates 2 + recursive_sum(1), and finally returns 1.",
+            "parameters": ["n (int) - The starting integer to sum down from"],
+            "returns": ["The sum of all integers from n down to 1 as an integer"]
+        }
+    ]
+}
+```
+2025-02-01 22:53:00,394 - main - INFO - Processing file: Test2.py
+2025-02-01 22:53:00,395 - main - INFO - Generating documentation for Test2.py
+2025-02-01 22:53:32,702 - main - ERROR - Error generating documentation for Test2.py: timed out
+2025-02-01 22:53:32,703 - main - INFO - Generating documentation for Test.py
+2025-02-01 22:54:05,139 - main - ERROR - Error generating documentation for Test.py: timed out
+2025-02-01 22:54:05,140 - main - INFO - Generating documentation for Test2.py
+2025-02-01 22:54:37,454 - main - ERROR - Error generating documentation for Test2.py: timed out
+2025-02-01 22:54:37,455 - main - INFO - Generating documentation for Test.py
+2025-02-01 22:55:09,788 - main - ERROR - Error generating documentation for Test.py: timed out
+2025-02-01 22:55:09,789 - main - ERROR - Error processing D:\Projects\HackBrown\Project\server\test\Test.py: RetryError[<Future at 0x167deae1190 state=finished raised ReadTimeout>]
+2025-02-01 22:55:09,790 - main - INFO - Generating documentation for Test2.py
+2025-02-01 22:55:42,103 - main - ERROR - Error generating documentation for Test2.py: timed out
+2025-02-01 22:55:42,103 - main - ERROR - Error processing D:\Projects\HackBrown\Project\server\test\Test2.py: RetryError[<Future at 0x167de768fb0 state=finished raised ReadTimeout>]
+2025-02-01 22:55:42,103 - main - ERROR - Failed to process: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 22:55:42,104 - main - ERROR - Failed to process: D:\Projects\HackBrown\Project\server\test\Test2.py
+2025-02-01 22:55:42,104 - main - WARNING - No documentation generated
+2025-02-01 22:57:19,039 - main - INFO - Received request for directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 22:57:19,040 - main - INFO - Files in directory: [WindowsPath('D:/Projects/HackBrown/Project/server/test/Test.py')]
+2025-02-01 22:57:19,040 - main - INFO - Created output directory: output
+2025-02-01 22:57:19,041 - main - INFO - Scanning directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 22:57:19,041 - main - INFO - Found 1 Python files
+2025-02-01 22:57:19,041 - main - INFO - Adding file to queue: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 22:57:19,041 - main - INFO - Processing file: Test.py
+2025-02-01 22:57:19,042 - main - INFO - Generating documentation for Test.py
+2025-02-01 22:57:51,349 - main - ERROR - Error generating documentation for Test.py: timed out
+2025-02-01 22:57:55,353 - main - INFO - Generating documentation for Test.py
+2025-02-01 22:58:21,253 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-01 22:58:21,255 - main - INFO - Generated documentation for Test.py: {'overview': 'The Python code defines a recursive function to compute the sum of integers from n down to 1. It also includes a main function that demonstrates how to use this function.', 'functions': ...
+2025-02-01 22:58:21,256 - main - INFO - Successfully processed: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-02 08:55:01,979 - main - INFO - Received request for directory: D:\Projects\HackBrown\Project\server\test
+2025-02-02 08:55:01,982 - main - INFO - Files in directory: [WindowsPath('D:/Projects/HackBrown/Project/server/test/Test.py')]
+2025-02-02 08:55:01,982 - main - INFO - Created output directory: output
+2025-02-02 08:55:01,983 - main - INFO - Scanning directory: D:\Projects\HackBrown\Project\server\test
+2025-02-02 08:55:01,984 - main - INFO - Found 1 Python files
+2025-02-02 08:55:01,984 - main - INFO - Adding file to queue: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-02 08:55:01,998 - main - INFO - Processing file: Test.py
+2025-02-02 08:55:01,999 - main - INFO - Generating documentation for Test.py
+2025-02-02 08:55:34,040 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-02 08:55:34,041 - main - INFO - Generated documentation for Test.py: {'overview': 'The Python code defines a recursive function `recursive_sum` that calculates the sum of integers from 1 to n using recursion. The `main` function demonstrates its usage by printing the r...
+2025-02-02 08:55:34,042 - main - INFO - Successfully processed: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-02 08:57:26,478 - main - INFO - Received request for directory: D:\Projects\HackBrown\Project\server\test
+2025-02-02 08:57:26,479 - main - INFO - Files in directory: [WindowsPath('D:/Projects/HackBrown/Project/server/test/Test.py')]
+2025-02-02 08:57:26,480 - main - INFO - Created output directory: output
+2025-02-02 08:57:26,481 - main - INFO - Scanning directory: D:\Projects\HackBrown\Project\server\test
+2025-02-02 08:57:26,482 - main - INFO - Found 1 Python files
+2025-02-02 08:57:26,482 - main - INFO - Adding file to queue: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-02 08:57:26,483 - main - INFO - Processing file: Test.py
+2025-02-02 08:57:26,484 - main - INFO - Generating documentation for Test.py
+2025-02-02 08:57:52,368 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-02 08:57:52,369 - main - INFO - Generated documentation for Test.py: {'overview': 'This code calculates the sum of integers from 1 to a given number using recursion.', 'functions': [{'name': 'recursive_sum', 'description': ['Recursively sums numbers from n down to 1.']...
+2025-02-02 08:57:52,370 - main - INFO - Successfully processed: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-02 09:12:18,029 - main - INFO - Received request for directory: D:\Projects\HackBrown\Project\server\test
+2025-02-02 09:12:18,030 - main - INFO - Files in directory: [WindowsPath('D:/Projects/HackBrown/Project/server/test/Test.py')]
+2025-02-02 09:12:18,031 - main - INFO - Created output directory: output
+2025-02-02 09:12:18,031 - main - INFO - Scanning directory: D:\Projects\HackBrown\Project\server\test
+2025-02-02 09:12:18,032 - main - INFO - Found 1 Python files
+2025-02-02 09:12:18,033 - main - INFO - Adding file to queue: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-02 09:12:18,051 - main - INFO - Processing file: Test.py
+2025-02-02 09:12:18,052 - main - INFO - Generating documentation for Test.py
+2025-02-02 09:12:50,428 - main - ERROR - Error generating documentation for Test.py: timed out
+2025-02-02 09:12:54,447 - main - INFO - Generating documentation for Test.py

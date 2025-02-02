@@ -1,0 +1,380 @@
+2025-02-01 21:41:01,538 - main - INFO - Starting documentation generation for: D:\Projects\HackBrown\Project\server\test
+2025-02-01 21:41:01,540 - main - INFO - Checking directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 21:42:33,910 - main - INFO - Starting documentation generation for: D:\Projects\HackBrown\Project\server\test
+2025-02-01 21:42:33,912 - main - INFO - Checking directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 21:43:23,263 - main - INFO - Checking directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 21:45:57,679 - main - INFO - Received request for directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 21:45:57,680 - main - INFO - Files in directory: [WindowsPath('D:/Projects/HackBrown/Project/server/test/Test.py')]
+2025-02-01 21:45:57,683 - main - INFO - Created output directory: output
+2025-02-01 21:45:57,684 - main - INFO - Scanning directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 21:45:57,684 - main - INFO - Found 1 Python files
+2025-02-01 21:45:57,685 - main - INFO - Adding file to queue: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 21:45:57,686 - main - INFO - Processing file: Test.py
+2025-02-01 21:45:57,687 - main - INFO - Generating documentation for Test.py
+2025-02-01 21:46:00,092 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 404 Not Found"
+2025-02-01 21:46:00,093 - main - ERROR - Error generating documentation for Test.py: model "deepseek-coder:7b" not found, try pulling it first (status code: 404)
+2025-02-01 21:46:04,102 - main - INFO - Generating documentation for Test.py
+2025-02-01 21:46:06,490 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 404 Not Found"
+2025-02-01 21:46:06,491 - main - ERROR - Error generating documentation for Test.py: model "deepseek-coder:7b" not found, try pulling it first (status code: 404)
+2025-02-01 21:46:10,493 - main - INFO - Generating documentation for Test.py
+2025-02-01 21:46:12,867 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 404 Not Found"
+2025-02-01 21:46:12,868 - main - ERROR - Error generating documentation for Test.py: model "deepseek-coder:7b" not found, try pulling it first (status code: 404)
+2025-02-01 21:46:12,872 - main - ERROR - Error processing D:\Projects\HackBrown\Project\server\test\Test.py: RetryError[<Future at 0x1c9e1b74800 state=finished raised ResponseError>]
+2025-02-01 21:46:12,873 - main - ERROR - Failed to process: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 21:46:12,874 - main - INFO - Files found: []
+2025-02-01 21:46:12,874 - main - WARNING - No documentation generated
+2025-02-01 21:49:00,315 - main - INFO - Received request for directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 21:49:00,317 - main - INFO - Files in directory: [WindowsPath('D:/Projects/HackBrown/Project/server/test/Test.py')]
+2025-02-01 21:49:00,317 - main - INFO - Created output directory: output
+2025-02-01 21:49:00,318 - main - INFO - Scanning directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 21:49:00,318 - main - INFO - Found 1 Python files
+2025-02-01 21:49:00,319 - main - INFO - Adding file to queue: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 21:49:00,320 - main - INFO - Processing file: Test.py
+2025-02-01 21:49:00,320 - main - INFO - Generating documentation for Test.py
+2025-02-01 21:49:02,682 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 404 Not Found"
+2025-02-01 21:49:02,684 - main - ERROR - Error generating documentation for Test.py: model "deepseek-coder:7b" not found, try pulling it first (status code: 404)
+2025-02-01 21:49:06,699 - main - INFO - Generating documentation for Test.py
+2025-02-01 21:49:09,059 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 404 Not Found"
+2025-02-01 21:49:09,060 - main - ERROR - Error generating documentation for Test.py: model "deepseek-coder:7b" not found, try pulling it first (status code: 404)
+2025-02-01 21:49:13,066 - main - INFO - Generating documentation for Test.py
+2025-02-01 21:49:15,426 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 404 Not Found"
+2025-02-01 21:49:15,427 - main - ERROR - Error generating documentation for Test.py: model "deepseek-coder:7b" not found, try pulling it first (status code: 404)
+2025-02-01 21:49:15,431 - main - ERROR - Error processing D:\Projects\HackBrown\Project\server\test\Test.py: RetryError[<Future at 0x180ff64f290 state=finished raised ResponseError>]
+2025-02-01 21:49:15,432 - main - ERROR - Failed to process: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 21:49:15,432 - main - INFO - Files found: []
+2025-02-01 21:49:15,432 - main - WARNING - No documentation generated
+2025-02-01 21:49:54,960 - main - INFO - Received request for directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 21:49:54,961 - main - INFO - Files in directory: [WindowsPath('D:/Projects/HackBrown/Project/server/test/Test.py')]
+2025-02-01 21:49:54,962 - main - INFO - Created output directory: output
+2025-02-01 21:49:54,963 - main - INFO - Scanning directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 21:49:54,964 - main - INFO - Found 1 Python files
+2025-02-01 21:49:54,964 - main - INFO - Adding file to queue: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 21:49:54,965 - main - INFO - Processing file: Test.py
+2025-02-01 21:49:54,966 - main - INFO - Generating documentation for Test.py
+2025-02-01 21:50:27,351 - main - ERROR - Error generating documentation for Test.py: timed out
+2025-02-01 21:50:31,361 - main - INFO - Generating documentation for Test.py
+2025-02-01 21:51:03,762 - main - ERROR - Error generating documentation for Test.py: timed out
+2025-02-01 21:51:07,768 - main - INFO - Generating documentation for Test.py
+2025-02-01 21:51:36,257 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-01 21:51:36,259 - main - INFO - Successfully processed: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 21:51:36,259 - main - INFO - Files found: ['D:\\Projects\\HackBrown\\Project\\server\\test\\Test.py']
+2025-02-01 21:52:56,981 - main - INFO - Received request for directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 21:52:56,983 - main - INFO - Files in directory: [WindowsPath('D:/Projects/HackBrown/Project/server/test/Test.py')]
+2025-02-01 21:52:56,983 - main - INFO - Created output directory: output
+2025-02-01 21:52:56,984 - main - INFO - Scanning directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 21:52:56,985 - main - INFO - Found 1 Python files
+2025-02-01 21:52:56,985 - main - INFO - Adding file to queue: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 21:52:56,985 - main - INFO - Processing file: Test.py
+2025-02-01 21:52:56,987 - main - INFO - Generating documentation for Test.py
+2025-02-01 21:53:29,370 - main - ERROR - Error generating documentation for Test.py: timed out
+2025-02-01 21:53:33,378 - main - INFO - Generating documentation for Test.py
+2025-02-01 21:54:05,773 - main - ERROR - Error generating documentation for Test.py: timed out
+2025-02-01 21:54:09,773 - main - INFO - Generating documentation for Test.py
+2025-02-01 21:54:42,168 - main - ERROR - Error generating documentation for Test.py: timed out
+2025-02-01 21:54:42,168 - main - ERROR - Error processing D:\Projects\HackBrown\Project\server\test\Test.py: RetryError[<Future at 0x1f6e8b7b410 state=finished raised ReadTimeout>]
+2025-02-01 21:54:42,169 - main - ERROR - Failed to process: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 21:54:42,169 - main - INFO - Files found: []
+2025-02-01 21:54:42,169 - main - WARNING - No documentation generated
+2025-02-01 21:54:54,635 - main - INFO - Received request for directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 21:54:54,636 - main - INFO - Files in directory: [WindowsPath('D:/Projects/HackBrown/Project/server/test/Test.py')]
+2025-02-01 21:54:54,637 - main - INFO - Created output directory: output
+2025-02-01 21:54:54,638 - main - INFO - Scanning directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 21:54:54,638 - main - INFO - Found 1 Python files
+2025-02-01 21:54:54,639 - main - INFO - Adding file to queue: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 21:54:54,639 - main - INFO - Processing file: Test.py
+2025-02-01 21:54:54,640 - main - INFO - Generating documentation for Test.py
+2025-02-01 21:55:27,013 - main - ERROR - Error generating documentation for Test.py: timed out
+2025-02-01 21:55:31,003 - main - INFO - Generating documentation for Test.py
+2025-02-01 21:56:03,405 - main - ERROR - Error generating documentation for Test.py: timed out
+2025-02-01 21:56:07,414 - main - INFO - Generating documentation for Test.py
+2025-02-01 21:56:39,784 - main - ERROR - Error generating documentation for Test.py: timed out
+2025-02-01 21:56:39,786 - main - ERROR - Error processing D:\Projects\HackBrown\Project\server\test\Test.py: RetryError[<Future at 0x1f6e8bab7d0 state=finished raised ReadTimeout>]
+2025-02-01 21:56:39,788 - main - ERROR - Failed to process: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 21:56:39,788 - main - INFO - Files found: []
+2025-02-01 21:56:39,789 - main - WARNING - No documentation generated
+2025-02-01 22:06:26,150 - main - INFO - Received request for directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 22:06:26,151 - main - INFO - Files in directory: [WindowsPath('D:/Projects/HackBrown/Project/server/test/Test.py')]
+2025-02-01 22:06:26,152 - main - INFO - Created output directory: output
+2025-02-01 22:06:26,153 - main - INFO - Scanning directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 22:06:26,154 - main - INFO - Found 1 Python files
+2025-02-01 22:06:26,154 - main - INFO - Adding file to queue: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 22:06:26,155 - main - INFO - Processing file: Test.py
+2025-02-01 22:06:26,155 - main - INFO - Code content: import random
+import math
+import sys
+
+
+def recursive_sum(n):
+    """Recursively sum numbers from n down to 1."""
+    if n <= 1:
+        return n
+    return n + recursive_sum(n-1)
+
+
+def main():
+    pri...
+2025-02-01 22:06:26,157 - main - INFO - Generating documentation for Test.py
+2025-02-01 22:06:58,583 - main - ERROR - Error generating documentation for Test.py: timed out
+2025-02-01 22:07:02,587 - main - INFO - Generating documentation for Test.py
+2025-02-01 22:07:34,994 - main - ERROR - Error generating documentation for Test.py: timed out
+2025-02-01 22:07:39,006 - main - INFO - Generating documentation for Test.py
+2025-02-01 22:08:11,389 - main - ERROR - Error generating documentation for Test.py: timed out
+2025-02-01 22:08:11,390 - main - ERROR - Error processing D:\Projects\HackBrown\Project\server\test\Test.py: RetryError[<Future at 0x1ec691e6a80 state=finished raised ReadTimeout>]
+2025-02-01 22:08:11,391 - main - ERROR - Failed to process: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 22:08:11,391 - main - INFO - Documentation generated. Number of docs: 0
+2025-02-01 22:08:11,392 - main - INFO - First document sample: No docs
+2025-02-01 22:08:11,392 - main - WARNING - No documentation generated
+2025-02-01 22:17:01,325 - main - INFO - Received request for directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 22:17:01,326 - main - INFO - Files in directory: [WindowsPath('D:/Projects/HackBrown/Project/server/test/Test.py')]
+2025-02-01 22:17:01,327 - main - INFO - Created output directory: output
+2025-02-01 22:17:01,327 - main - INFO - Scanning directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 22:17:01,328 - main - INFO - Found 1 Python files
+2025-02-01 22:17:01,328 - main - INFO - Adding file to queue: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 22:17:01,329 - main - INFO - Processing file: Test.py
+2025-02-01 22:17:01,329 - main - INFO - Code content: import random
+import math
+import sys
+
+
+def recursive_sum(n):
+    """Recursively sum numbers from n down to 1."""
+    if n <= 1:
+        return n
+    return n + recursive_sum(n-1)
+
+
+def main():
+    pri...
+2025-02-01 22:17:01,330 - main - INFO - Generating documentation for Test.py
+2025-02-01 22:17:03,646 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 404 Not Found"
+2025-02-01 22:17:03,648 - main - ERROR - Error generating documentation for Test.py: model "deepseek-coder:7b" not found, try pulling it first (status code: 404)
+2025-02-01 22:17:07,661 - main - INFO - Generating documentation for Test.py
+2025-02-01 22:17:09,948 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 404 Not Found"
+2025-02-01 22:17:09,949 - main - ERROR - Error generating documentation for Test.py: model "deepseek-coder:7b" not found, try pulling it first (status code: 404)
+2025-02-01 22:17:13,962 - main - INFO - Generating documentation for Test.py
+2025-02-01 22:17:16,249 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 404 Not Found"
+2025-02-01 22:17:16,250 - main - ERROR - Error generating documentation for Test.py: model "deepseek-coder:7b" not found, try pulling it first (status code: 404)
+2025-02-01 22:17:16,250 - main - ERROR - Error processing D:\Projects\HackBrown\Project\server\test\Test.py: RetryError[<Future at 0x20f1c66f2c0 state=finished raised ResponseError>]
+2025-02-01 22:17:16,250 - main - ERROR - Failed to process: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 22:17:16,250 - main - INFO - Documentation generated. Number of docs: 0
+2025-02-01 22:17:16,251 - main - INFO - First document sample: No docs
+2025-02-01 22:17:16,251 - main - WARNING - No documentation generated
+2025-02-01 22:21:48,142 - main - INFO - Received request for directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 22:21:48,143 - main - INFO - Files in directory: [WindowsPath('D:/Projects/HackBrown/Project/server/test/Test.py')]
+2025-02-01 22:21:48,143 - main - INFO - Created output directory: output
+2025-02-01 22:21:48,144 - main - INFO - Scanning directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 22:21:48,144 - main - INFO - Found 1 Python files
+2025-02-01 22:21:48,144 - main - INFO - Adding file to queue: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 22:21:48,145 - main - INFO - Processing file: Test.py
+2025-02-01 22:21:48,145 - main - INFO - Generating documentation for Test.py
+2025-02-01 22:22:20,427 - main - ERROR - Error generating documentation for Test.py: timed out
+2025-02-01 22:22:24,441 - main - INFO - Generating documentation for Test.py
+2025-02-01 22:22:50,031 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-01 22:22:50,032 - main - ERROR - Error parsing JSON response: Expecting value: line 1 column 1 (char 0)
+2025-02-01 22:22:50,032 - main - ERROR - Raw response: <think>
+Alright, I need to analyze this Python code from Test.py and create a JSON structure as specified. Let me start by reading through the code carefully.
+
+The first three lines import modules: random, math, and sys. Since these aren't used in the provided code, maybe they're redundant or for future use.
+
+Next is the recursive_sum function. It takes an integer n and returns the sum from n down to 1. The base case is when n <= 1, returning n itself. Otherwise, it adds n to the result of recursive_sum(n-1). That makes sense as a simple recursive approach.
+
+The main function prints "Recursive sum of 10:" followed by the result of recursive_sum(10). So, when run, it should output the sum from 10 down to 1.
+
+Now, I need to structure this into the JSON format. The overview should be concise, mentioning recursion and the summation process. For functions, include both recursive_sum and main, each with their signature, description, parameters, and returns.
+
+I'll ensure that function descriptions are detailed but clear, specifying that it's a tail-recursive approach for efficiency if called with large n. Also, note that for very large numbers, recursion might cause issues like stack overflow, so an iterative approach could be better in such cases.
+
+Putting it all together, I'll format the JSON correctly, making sure each part is accurately represented.
+</think>
+
+```json
+{
+    "overview": "This Python script calculates the sum of integers from 1 to n using a recursive approach. The main function prints the result for n=10.",
+    "functions": [
+        {
+            "name": "recursive_sum",
+            "signature": "def recursive_sum(n):",
+            "description": ["Recursively calculates the sum of integers from n down to 1 using tail recursion.", "Base case: if n <= 1, return n. Otherwise, add n to the result of recursive_sum(n-1)."],
+            "parameters": [
+                ["n", "integer (positive) representing the starting number"]
+            ],
+            "returns": ["Integer value equal to the sum of numbers from 1 to n."]
+        },
+        {
+            "name": "main",
+            "signature": "def main():",
+            "description": ["Prints a message and calls recursive_sum with default argument n=10.",
+                          "This is where the program execution starts when running directly as a script."],
+            "parameters": [],
+            "returns": []
+        }
+    ]
+}
+```
+2025-02-01 22:22:50,036 - main - ERROR - Error generating documentation for Test.py: Expecting value: line 1 column 1 (char 0)
+2025-02-01 22:22:54,045 - main - INFO - Generating documentation for Test.py
+2025-02-01 22:23:19,386 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-01 22:23:19,387 - main - ERROR - Error parsing JSON response: Expecting value: line 1 column 1 (char 0)
+2025-02-01 22:23:19,387 - main - ERROR - Raw response: <think>
+Okay, so I need to analyze this Python code and provide a JSON structure that describes what it does. Let me look at the code carefully.
+
+First, I see that there are imports for random, math, and sys. But in the code, only recursive_sum is defined, which uses recursion without those imports. Hmm, maybe the other imports are unused here. That might be something to note in the overview.
+
+Next, there's a function called recursive_sum(n). The docstring says it recursively sums numbers from n down to 1. So for example, if n is 3, it would calculate 3 + 2 + 1 = 6. 
+
+The base case is when n is less than or equal to 1; the function returns n itself. If n is greater than 1, it adds n to the result of recursive_sum(n-1). That makes sense because each call reduces the problem size by one until it reaches the base case.
+
+In the main function, there's a print statement that shows the recursive sum of 10. So when run, it will output "Recursive sum of 10: 55" since 1+2+...+10 is 55.
+
+Putting this all together, I need to structure my JSON with an overview and functions section. The overview should briefly explain that the code calculates a recursive sum from n down to 1 using recursion. 
+
+For the functions, only recursive_sum is defined. I'll include its name, description (the comment says it sums numbers from n down to 1), parameters which is just 'n' as an integer, and returns which is the sum of those numbers.
+
+I should make sure not to include the unused imports in the overview because they don't affect what this particular code does. 
+
+So the JSON will have "overview" explaining its purpose, and a single function object for recursive_sum with all the necessary details.
+</think>
+
+```json
+{
+    "overview": "The Python code defines a recursive function `recursive_sum(n)` that calculates the sum of integers from 1 to n using recursion.",
+    "functions": [
+        {
+            "name": "recursive_sum",
+            "description": ["Recursively computes the sum of integers from 1 up to and including a given positive integer n."],
+            "parameters": ["n (int) - A positive integer representing the upper limit of the summation."],
+            "returns": ["The sum of integers from 1 to n as an integer."]
+        }
+    ]
+}
+```
+2025-02-01 22:23:19,388 - main - ERROR - Error generating documentation for Test.py: Expecting value: line 1 column 1 (char 0)
+2025-02-01 22:23:19,389 - main - ERROR - Error processing D:\Projects\HackBrown\Project\server\test\Test.py: RetryError[<Future at 0x22b5db1bb60 state=finished raised JSONDecodeError>]
+2025-02-01 22:23:19,389 - main - ERROR - Failed to process: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 22:23:19,389 - main - WARNING - No documentation generated
+2025-02-01 22:23:39,730 - main - INFO - Received request for directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 22:23:39,730 - main - INFO - Files in directory: [WindowsPath('D:/Projects/HackBrown/Project/server/test/Test.py')]
+2025-02-01 22:23:39,731 - main - INFO - Created output directory: output
+2025-02-01 22:23:39,732 - main - INFO - Scanning directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 22:23:39,732 - main - INFO - Found 1 Python files
+2025-02-01 22:23:39,732 - main - INFO - Adding file to queue: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 22:23:39,733 - main - INFO - Processing file: Test.py
+2025-02-01 22:23:39,733 - main - INFO - Generating documentation for Test.py
+2025-02-01 22:23:56,887 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-01 22:23:56,888 - main - ERROR - Error parsing JSON response: Expecting value: line 1 column 1 (char 0)
+2025-02-01 22:23:56,888 - main - ERROR - Raw response: <think>
+Alright, let me try to figure out how to approach this problem. The user has provided a Python script and wants an analysis in a specific JSON format. My task is to understand the code, create an overview, list the functions with their details, parameters, etc., all within that structure.
+
+First, I'll look at the code. It starts by importing random, math, and sys. But looking at the functions, only recursive_sum is used, so maybe those imports aren't necessary. The main function calls print with a message about the recursive sum of 10. Then there's a helper function, recursive_sum, which takes an integer n and recursively sums down to 1.
+
+I need to document this code properly. The overview should be concise, explaining that it calculates the sum from n down to 1 using recursion. For the functions section, I have to identify all functions. Here, only recursive_sum is present. So I'll describe its purpose, parameters (n as an integer), and what it returns.
+
+I must ensure each part of the JSON structure is filled correctly without any additional text outside the JSON. I should avoid markdown and keep the response clean.
+</think>
+
+```json
+{
+    "overview": "The code calculates the recursive sum of integers from a given number down to 1.",
+    "functions": [
+        {
+            "name": "recursive_sum",
+            "description": ["Recursively sums numbers from n down to 1."],
+            "parameters": ["n (integer)"],
+            "returns": ["The sum of all integers from n down to 1 as an integer"]
+        }
+    ]
+}
+```
+2025-02-01 22:23:56,889 - main - ERROR - Error generating documentation for Test.py: Expecting value: line 1 column 1 (char 0)
+2025-02-01 22:24:00,887 - main - INFO - Generating documentation for Test.py
+2025-02-01 22:24:27,299 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-01 22:24:27,300 - main - ERROR - Error parsing JSON response: Expecting value: line 1 column 1 (char 0)
+2025-02-01 22:24:27,300 - main - ERROR - Raw response: <think>
+Alright, I need to analyze the provided Python code and create a JSON summary as per the user's instructions. Let me start by reading through the code carefully.
+
+First, I see that the code imports three modules: random, math, and sys. But looking at the functions defined, neither recursive_sum nor main use any of these imports. So those might be extraneous or left over from a different project.
+
+Next, there's the recursive_sum function. It takes an integer n as input. The docstring says it recursively sums numbers from n down to 1. So for example, if n is 5, it would return 15 (since 5+4+3+2+1=15). 
+
+The base case of the recursion is when n <= 1; in that case, it returns n. Otherwise, it adds n to recursive_sum(n-1), which means each call reduces n by 1 until it hits the base case.
+
+Then there's the main function, which simply prints "Recursive sum of 10:" followed by the result of recursive_sum(10). The if __name__ == "__main__" block ensures that when the script is run directly, main() is executed.
+
+So putting this together, I need to structure a JSON object with an "overview" and a list of functions. Each function should have its name, detailed description, parameter descriptions with types, and return value descriptions.
+
+The recursive_sum function's description should explain it sums numbers from n down to 1 using recursion. Parameters include 'n' as an integer. The return is the sum of all integers from 1 to n.
+
+Main() just prints a message and calls recursive_sum(10), so its description is straightforward.
+
+I need to make sure I don't include any extra information, like the unused imports, in my JSON output.
+</think>
+
+```json
+{
+    "overview": "The code demonstrates a recursive function that calculates the sum of integers from 1 to n. It also includes a main function that prints the result for n=10.",
+    "functions": [
+        {
+            "name": "recursive_sum",
+            "description": ["Recursively sums all integers from n down to 1"],
+            "parameters": ["n (int) - The starting integer"],
+            "returns": ["The sum of integers from 1 to n"]
+        },
+        {
+            "name": "main",
+            "description": ["Prints the result of recursive_sum(10)"],
+            "parameters": [],
+            "returns": []
+        }
+    ]
+}
+```
+2025-02-01 22:24:27,302 - main - ERROR - Error generating documentation for Test.py: Expecting value: line 1 column 1 (char 0)
+2025-02-01 22:24:31,315 - main - INFO - Generating documentation for Test.py
+2025-02-01 22:24:53,244 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-01 22:24:53,245 - main - ERROR - Error parsing JSON response: Expecting value: line 1 column 1 (char 0)
+2025-02-01 22:24:53,245 - main - ERROR - Raw response: <think>
+Alright, so the user provided a Python code snippet and asked for an analysis in a specific JSON structure. Let me see what I need to do here.
+
+First, looking at the code, it imports random, math, and sys. But then the functions recursive_sum and main are defined without using any of these imports. That's odd. Maybe those imports were included by mistake or they're not needed for this particular script. I should note that in the overview.
+
+The recursive_sum function calculates the sum from n down to 1 recursively. So it adds each number starting from n until it reaches 1, then returns the total. The main function prints "Recursive sum of 10:" and calls recursive_sum(10). 
+
+I need to create a JSON object with an overview and functions array. Each function should have its name, description, parameters, and return value.
+
+So for recursive_sum: name is clear. The description explains it's a recursive sum from n down to 1. Parameters include n as an integer greater than 0. Returns the summed integer.
+
+Main is straightforward; it prints a message and calls the function.
+
+I should structure this correctly without adding any extra text, just the JSON as per the user's request.
+</think>
+
+```json
+{
+    "overview": "This Python script calculates the sum of integers from a given number down to 1 using recursion. The main function demonstrates this by calculating the sum starting from 10.",
+    "functions": [
+        {
+            "name": "recursive_sum",
+            "description": ["Recursively sums numbers from n down to 1."],
+            "parameters": ["n (integer > 0)"],
+            "returns": ["the summed integer result"]
+        },
+        {
+            "name": "main",
+            "description": ["Prints the message 'Recursive sum of 10:' and calls recursive_sum(10).'"],
+            "parameters": [],
+            "returns": []
+        }
+    ]
+}
+```
+2025-02-01 22:24:53,247 - main - ERROR - Error generating documentation for Test.py: Expecting value: line 1 column 1 (char 0)
+2025-02-01 22:24:53,248 - main - ERROR - Error processing D:\Projects\HackBrown\Project\server\test\Test.py: RetryError[<Future at 0x22b5db692e0 state=finished raised JSONDecodeError>]
+2025-02-01 22:24:53,248 - main - ERROR - Failed to process: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 22:24:53,248 - main - WARNING - No documentation generated
+2025-02-01 22:29:26,495 - main - INFO - Received request for directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 22:29:26,496 - main - INFO - Files in directory: [WindowsPath('D:/Projects/HackBrown/Project/server/test/Test.py')]
+2025-02-01 22:29:26,496 - main - INFO - Created output directory: output
+2025-02-01 22:29:26,497 - main - INFO - Scanning directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 22:29:26,498 - main - INFO - Found 1 Python files
+2025-02-01 22:29:26,498 - main - INFO - Adding file to queue: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 22:29:26,498 - main - ERROR - Error generating documentation: name 'document_file' is not defined

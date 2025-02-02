@@ -378,3 +378,14 @@ I should structure this correctly without adding any extra text, just the JSON a
 2025-02-01 22:29:26,498 - main - INFO - Found 1 Python files
 2025-02-01 22:29:26,498 - main - INFO - Adding file to queue: D:\Projects\HackBrown\Project\server\test\Test.py
 2025-02-01 22:29:26,498 - main - ERROR - Error generating documentation: name 'document_file' is not defined
+2025-02-01 22:30:42,771 - main - INFO - Received request for directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 22:30:42,772 - main - INFO - Files in directory: [WindowsPath('D:/Projects/HackBrown/Project/server/test/Test.py')]
+2025-02-01 22:30:42,773 - main - INFO - Created output directory: output
+2025-02-01 22:30:42,773 - main - INFO - Scanning directory: D:\Projects\HackBrown\Project\server\test
+2025-02-01 22:30:42,774 - main - INFO - Found 1 Python files
+2025-02-01 22:30:42,774 - main - INFO - Adding file to queue: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-01 22:30:42,774 - main - INFO - Processing file: Test.py
+2025-02-01 22:30:42,775 - main - INFO - Generating documentation for Test.py
+2025-02-01 22:31:10,850 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-01 22:31:10,851 - main - INFO - Generated documentation for Test.py: {'overview': 'This Python script calculates the sum of integers from 1 to n using recursion. It imports math and sys modules but does not use them in this specific script. The function `recursive_sum`...
+2025-02-01 22:31:10,852 - main - INFO - Successfully processed: D:\Projects\HackBrown\Project\server\test\Test.py

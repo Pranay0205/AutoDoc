@@ -4,11 +4,11 @@
 
 ### File Upload Interface
 
-![File Upload](/screenshots/file-upload.png)
+![File Upload](/screenshots/File_Upload_Interface.png)
 
 ### Generated Output
 
-![Output](/screenshots/output.png)
+![Output](/screenshots/Generated_Doc_View.png)
 
 ## Client
 

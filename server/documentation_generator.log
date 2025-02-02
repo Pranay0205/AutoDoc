@@ -522,3 +522,9 @@ I should make sure each part is clear and concise without being too verbose.
 2025-02-02 09:12:18,052 - main - INFO - Generating documentation for Test.py
 2025-02-02 09:12:50,428 - main - ERROR - Error generating documentation for Test.py: timed out
 2025-02-02 09:12:54,447 - main - INFO - Generating documentation for Test.py
+2025-02-02 09:13:26,845 - main - ERROR - Error generating documentation for Test.py: timed out
+2025-02-02 09:13:30,844 - main - INFO - Generating documentation for Test.py
+2025-02-02 09:14:03,232 - main - ERROR - Error generating documentation for Test.py: timed out
+2025-02-02 09:14:03,232 - main - ERROR - Error processing D:\Projects\HackBrown\Project\server\test\Test.py: RetryError[<Future at 0x20a7c252c60 state=finished raised ReadTimeout>]
+2025-02-02 09:14:03,233 - main - ERROR - Failed to process: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-02 09:14:03,233 - main - WARNING - No documentation generated

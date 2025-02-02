@@ -528,3 +528,55 @@ I should make sure each part is clear and concise without being too verbose.
 2025-02-02 09:14:03,232 - main - ERROR - Error processing D:\Projects\HackBrown\Project\server\test\Test.py: RetryError[<Future at 0x20a7c252c60 state=finished raised ReadTimeout>]
 2025-02-02 09:14:03,233 - main - ERROR - Failed to process: D:\Projects\HackBrown\Project\server\test\Test.py
 2025-02-02 09:14:03,233 - main - WARNING - No documentation generated
+2025-02-02 10:05:44,507 - main - INFO - Received request for directory: D:\Projects\HackBrown\Project\server\test
+2025-02-02 10:05:44,508 - main - INFO - Files in directory: [WindowsPath('D:/Projects/HackBrown/Project/server/test/Test.py')]
+2025-02-02 10:05:44,509 - main - INFO - Created output directory: output
+2025-02-02 10:05:44,510 - main - INFO - Scanning directory: D:\Projects\HackBrown\Project\server\test
+2025-02-02 10:05:44,511 - main - INFO - Found 1 Python files
+2025-02-02 10:05:44,511 - main - INFO - Adding file to queue: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-02 10:05:44,527 - main - INFO - Processing file: Test.py
+2025-02-02 10:05:44,528 - main - INFO - Generating documentation for Test.py
+2025-02-02 10:06:16,917 - main - ERROR - Error generating documentation for Test.py: timed out
+2025-02-02 10:06:20,913 - main - INFO - Generating documentation for Test.py
+2025-02-02 10:06:50,062 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-02 10:06:50,065 - main - INFO - Generated documentation for Test.py: {'overview': 'The code calculates the sum of numbers from 1 up to a given number using recursion. It takes user input, prints each number during calculation, and displays the total sum.', 'functions':...
+2025-02-02 10:06:50,065 - main - INFO - Successfully processed: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-02 10:08:05,933 - main - INFO - Received request for directory: D:\Projects\HackBrown\Project\server
+2025-02-02 10:08:05,934 - main - INFO - Files in directory: [WindowsPath('D:/Projects/HackBrown/Project/server/main.py')]
+2025-02-02 10:08:05,935 - main - INFO - Created output directory: output
+2025-02-02 10:08:05,936 - main - INFO - Scanning directory: D:\Projects\HackBrown\Project\server
+2025-02-02 10:08:05,937 - main - INFO - Found 2 Python files
+2025-02-02 10:08:05,938 - main - INFO - Adding file to queue: D:\Projects\HackBrown\Project\server\main.py
+2025-02-02 10:08:05,938 - main - INFO - Adding file to queue: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-02 10:08:05,939 - main - INFO - Processing file: main.py
+2025-02-02 10:08:05,939 - main - INFO - Generating documentation for main.py
+2025-02-02 10:08:38,326 - main - ERROR - Error generating documentation for main.py: timed out
+2025-02-02 10:08:38,342 - main - INFO - Processing file: Test.py
+2025-02-02 10:08:38,344 - main - INFO - Generating documentation for Test.py
+2025-02-02 10:09:10,673 - main - ERROR - Error generating documentation for Test.py: timed out
+2025-02-02 10:09:10,675 - main - INFO - Generating documentation for main.py
+2025-02-02 10:09:42,975 - main - ERROR - Error generating documentation for main.py: timed out
+2025-02-02 10:09:42,976 - main - INFO - Generating documentation for Test.py
+2025-02-02 10:10:15,297 - main - ERROR - Error generating documentation for Test.py: timed out
+2025-02-02 10:10:15,301 - main - INFO - Received request for directory: D:\Projects\HackBrown\Project\server\test
+2025-02-02 10:10:15,302 - main - INFO - Files in directory: [WindowsPath('D:/Projects/HackBrown/Project/server/test/Test.py')]
+2025-02-02 10:10:15,302 - main - INFO - Created output directory: output
+2025-02-02 10:10:15,303 - main - INFO - Scanning directory: D:\Projects\HackBrown\Project\server\test
+2025-02-02 10:10:15,303 - main - INFO - Found 1 Python files
+2025-02-02 10:10:15,304 - main - INFO - Adding file to queue: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-02 10:10:15,304 - main - INFO - Processing file: Test.py
+2025-02-02 10:10:15,305 - main - INFO - Generating documentation for Test.py
+2025-02-02 10:10:47,698 - main - ERROR - Error generating documentation for Test.py: timed out
+2025-02-02 10:10:47,700 - main - INFO - Generating documentation for main.py
+2025-02-02 10:11:20,044 - main - ERROR - Error generating documentation for main.py: timed out
+2025-02-02 10:11:20,046 - main - ERROR - Error processing D:\Projects\HackBrown\Project\server\main.py: RetryError[<Future at 0x270c65916a0 state=finished raised ReadTimeout>]
+2025-02-02 10:11:20,048 - main - INFO - Generating documentation for Test.py
+2025-02-02 10:11:52,677 - main - ERROR - Error generating documentation for Test.py: timed out
+2025-02-02 10:11:52,678 - main - ERROR - Error processing D:\Projects\HackBrown\Project\server\test\Test.py: RetryError[<Future at 0x270c6591e80 state=finished raised ReadTimeout>]
+2025-02-02 10:11:52,680 - main - INFO - Generating documentation for Test.py
+2025-02-02 10:12:19,189 - httpx - INFO - HTTP Request: POST http://localhost:11434/api/chat "HTTP/1.1 200 OK"
+2025-02-02 10:12:19,189 - main - INFO - Generated documentation for Test.py: {'overview': 'The code defines a function that recursively calculates the sum of integers from n down to 1 and returns both the total sum and a list of these numbers.', 'functions': [{'name': 'print_a...
+2025-02-02 10:12:19,190 - main - ERROR - Failed to process: D:\Projects\HackBrown\Project\server\main.py
+2025-02-02 10:12:19,190 - main - ERROR - Failed to process: D:\Projects\HackBrown\Project\server\test\Test.py
+2025-02-02 10:12:19,190 - main - WARNING - No documentation generated
+2025-02-02 10:12:19,191 - main - INFO - Successfully processed: D:\Projects\HackBrown\Project\server\test\Test.py

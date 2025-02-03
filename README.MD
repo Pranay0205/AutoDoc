@@ -39,11 +39,8 @@ npm run dev
 The application will be available at `http://localhost:5173`
 
 ## Features
-
-- File upload with drag-and-drop
+- Document Creation
 - Documentation viewer
-- Document history management
-- Responsive design
 
 ---
 
